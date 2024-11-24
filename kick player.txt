@@ -4,7 +4,7 @@ local RbxAnalyticsService = game:GetService("RbxAnalyticsService")
 -- Lista de jogadores proibidos pelo nome
 local bannedPlayers = {
     "Wendah005",
-    "Player2",
+    "qolf_Ixd",
 }
 
 -- Lista de ClientIds banidos
