@@ -9,7 +9,7 @@ local bannedPlayers = {
 
 -- Lista de ClientIds banidos
 local bannedClientIds = {
-    "clientId1",
+    "68fd1da7-113f-408c-9ed6-13ebd7867199",
     "clientId2",
 }
 
