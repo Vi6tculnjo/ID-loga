@@ -10,7 +10,7 @@ local bannedPlayers = {
 -- Lista de ClientIds banidos
 local bannedClientIds = {
     "68fd1da7-113f-408c-9ed6-13ebd7867199",
-    "clientId2",
+    "02890416-91e7-4356-90ae-4a3cde24b1ce",
 }
 
 -- Função para verificar e kickar
